@@ -33,6 +33,12 @@ Emacs
 If you are `flycheck <https://github.com/flycheck/flycheck>`_ user, you can use
 `flycheck-yamllint <https://github.com/krzysztof-magosa/flycheck-yamllint>`_ integration.
 
+IntelliJ-based IDEs
+-------------------
+
+If you are a user of any of the IntelliJ-based IDEs (WebStorm, PyCharm, CLion and so on),
+you can use `yamllint-intellij <https://github.com/aesy/yamllint-intellij>`_ integration.
+
 Other text editors
 ------------------
 
